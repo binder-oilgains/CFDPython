@@ -1,6 +1,10 @@
 
 # CFD Python
 
+* At oilgains: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/CFDPython/master)
+
+* Original repo: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/barbagroup/CFDPython/master)
+
 > Please cite as: Barba, Lorena A., and Forsyth, Gilbert F. (2018). CFD Python: the 12 steps to Navier-Stokes equations. _Journal of Open Source Education_, **1**(9), 21, https://doi.org/10.21105/jose.00021
 
 [![DOI](https://jose.theoj.org/papers/10.21105/jose.00021/status.svg)](https://doi.org/10.21105/jose.00021)
